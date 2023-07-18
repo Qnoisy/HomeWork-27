@@ -16,3 +16,4 @@ function createFile(file, data) {
 	});
 }
 createFile(secondFile, "");
+createFile(secondFile, "I like NodeJS");
